@@ -1,0 +1,15 @@
+{
+  "words": [{
+    "english": ["incline"],
+    "russian": ["наклонять"],
+    "id": 1
+  }, {
+    "english": ["rabble", "ragtag", "mob"],
+    "russian": ["толпа", "сброд"],
+    "id": 2
+  }
+
+
+
+  ]
+}
